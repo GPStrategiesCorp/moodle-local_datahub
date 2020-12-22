@@ -31,5 +31,5 @@ $plugin->component = 'local_datahub';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->release = '3.1.5.0 (Build: 20170322)';
 $plugin->dependencies = array(
-    'local_eliscore' => 2016052300
+    'local_eliscore' => 2020122200
 );
